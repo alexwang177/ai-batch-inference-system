@@ -1,1 +1,1 @@
-# ai-batch-inference-system Alex Wang
+# ai-batch-inference-system
